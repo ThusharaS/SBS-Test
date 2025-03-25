@@ -1,7 +1,7 @@
 import { Given, When, Then } from '@wdio/cucumber-framework';
 import LandingPage from '../pageobjects/landing.page';
 
-import * as moment from 'moment';
+import moment from 'moment';
 import supertest from 'supertest';
 
 var initialTime;
