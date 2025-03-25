@@ -13,5 +13,3 @@ npx wdio run test/wdio.conf.ts
 ```
 allure generate ./allure-results && allure open
 ```
-
-https://www.sbs.com.au/guide/ajax_radio_program_catchup_data/language/mandarin/location/NSW/sublocation/Sydney
